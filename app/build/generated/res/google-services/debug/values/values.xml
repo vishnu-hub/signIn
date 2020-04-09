@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1002660818118-1k16l0chossjktqt4b60hroc87kisjh0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://eyantra-f4615.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1002660818118</string>
+    <string name="google_api_key" translatable="false">AIzaSyDlDHW-mQ671FW4nIXdIYJM9pIM_fRyphs</string>
+    <string name="google_app_id" translatable="false">1:1002660818118:android:4d4e946fda846419c87bc7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDlDHW-mQ671FW4nIXdIYJM9pIM_fRyphs</string>
+    <string name="google_storage_bucket" translatable="false">eyantra-f4615.appspot.com</string>
+    <string name="project_id" translatable="false">eyantra-f4615</string>
+</resources>
